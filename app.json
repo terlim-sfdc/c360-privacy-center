@@ -40,7 +40,7 @@
             "plan": "heroku-redis:private-7"
         },
         {
-            "plan": "herokuconnect:enterprise"
+            "plan": "herokuconnect:demo"
         },
         {
             "plan": "privacycenter:test"
